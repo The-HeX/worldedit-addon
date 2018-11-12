@@ -1,0 +1,1 @@
+tp @e[type=chicken] @s
