@@ -1,8 +1,11 @@
 # worldedit-addon
 WorldEdit for Minecraft Bedrock Add-on
 
+This add-on only works for version 1.8 Beta
+
 ## Installation 
  - Download the mcpack from the [Releases](https://github.com/The-HeX/worldedit-addon/releases). page.
+ - Double click the worldedit.mcpack once it is downloaded and minecraft will automatically import it.
  - In the world settings add the WorldEdit behavor pack. 
 ![Behavior Pack](https://user-images.githubusercontent.com/114692/48362687-cc662180-e669-11e8-866a-9a21a170ecb1.png)
 
