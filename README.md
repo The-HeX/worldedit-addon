@@ -3,7 +3,8 @@ WorldEdit for Minecraft Bedrock Add-on
 
 ## Installation 
  - Download the mcpack from the [Releases](https://github.com/The-HeX/worldedit-addon/releases). page.
- - In the world settings add the WorldEdit behavor pack.
+ - In the world settings add the WorldEdit behavor pack. 
+![Behavior Pack](https://user-images.githubusercontent.com/114692/48362687-cc662180-e669-11e8-866a-9a21a170ecb1.png)
 
 ## Commands
 
