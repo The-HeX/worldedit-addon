@@ -1,0 +1,16 @@
+{
+    "header": {
+      "pack_id": "e2569247-1052-49d4-85bb-4c6fe4344484",
+      "name": "World Edit",
+      "packs_version": "0.0.1",
+      "description": "World Edit resource pack",
+      "modules": [
+        {
+          "description": "Not Used",
+          "version": "0.0.1",
+          "uuid": "334159d9-23c8-4075-b618-7bdc0b0f760f",
+          "type": "data"
+        }
+      ]
+    }
+  }

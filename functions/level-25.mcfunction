@@ -1,0 +1,12 @@
+fill ~25 ~-1 ~25  ~0  ~-1 ~0 grass
+fill ~25 ~-2 ~25  ~0  ~-3 ~0 dirt
+fill ~25 ~-4 ~25  ~0  ~-6 ~0 stone
+fill ~-25 ~-1 ~25  ~-0  ~-1 ~0 grass
+fill ~-25 ~-2 ~25  ~-0  ~-3 ~0 dirt
+fill ~-25 ~-4 ~25  ~-0  ~-6 ~0 stone
+fill ~25 ~-1 ~-25  ~0  ~-1 ~-0 grass
+fill ~25 ~-2 ~-25  ~0  ~-3 ~-0 dirt
+fill ~25 ~-4 ~-25  ~0  ~-6 ~-0 stone
+fill ~-25 ~-1 ~-25  ~-0  ~-1 ~-0 grass
+fill ~-25 ~-2 ~-25  ~-0  ~-3 ~-0 dirt
+fill ~-25 ~-4 ~-25  ~-0  ~-6 ~-0 stone
