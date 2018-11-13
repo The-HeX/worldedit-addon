@@ -5,7 +5,7 @@
       "name" : "World Edit",
       "platform_locked" : false,
       "uuid" : "e2569247-1052-49d4-85bb-4c6fe4344484",
-      "version" : [ 0, 0, 1 ],
+      "version" : [ 0, 0, 2 ],
       "min_engine_version":[1,8,0]
    },
    "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
@@ -14,7 +14,7 @@
          "description" : "Not Used",
          "type" : "data",
          "uuid" : "334159d9-23c8-4075-b618-7bdc0b0f760f",
-         "version" : [ 0, 0, 1 ]
+         "version" : [ 0, 0, 2 ]
       }
    ]
 }
